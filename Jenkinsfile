@@ -10,13 +10,13 @@ pipeline {
         
         stage('test') {
             steps {
-                echo 'test madu guru'
+                echo 'test madu guru time ela malkolana'
             }
         }
         
         stage('deploy') {
             steps {
-                echo 'deploy madu guru bega.'
+                echo 'deploy madu guru bega begaaaaa.'
             }
         }
         
