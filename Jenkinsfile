@@ -8,7 +8,7 @@ pipeline {
             }
         }
         
-        stage('test') {
+        stage('jolly') {
             steps {
                 echo 'test madu guru time ela malkolana'
             }
