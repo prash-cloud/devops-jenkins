@@ -16,7 +16,7 @@ pipeline {
         
         stage('deploy') {
             steps {
-                echo 'deploy madu guru.'
+                echo 'deploy madu guru bega.'
             }
         }
         
